@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Portfolio Website**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Back end**
 
 - 💬 Ask me about **React.js, javaScript**
 
